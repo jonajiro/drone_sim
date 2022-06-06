@@ -1,5 +1,10 @@
 # drone_sim
 Drone Simulation</br>
+
+詳細は下記ブログを確認のこと</br>
+https://jonajiro.hatenablog.com/entry/2022/06/05/drone_sim
+
+</br>
 制御周期100Hz 赤</br>
 制御周期1kHz　緑 </br>
 
